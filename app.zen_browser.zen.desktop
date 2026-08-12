@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Zen Browser
+Comment=Fast and private web browser.
+Exec=zen %U
+Icon=app.zen_browser.zen
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+
