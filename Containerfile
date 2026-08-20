@@ -1,6 +1,6 @@
 FROM ubuntu:26.04 AS source
 
-ADD --checksum=sha256:a70f0e92de77c43c9f86ae5210849bf2c8c86dee571eb43957d87e3b4ffbdb9d https://github.com/zen-browser/desktop/releases/download/1.21.13b/zen-x86_64.AppImage /tmp/source
+ADD --checksum=sha256:349704871522e0085f3b505d629009490eefb3f06ee67a87ea106dcb1395ccfe https://github.com/zen-browser/desktop/releases/download/1.21.15b/zen-x86_64.AppImage /tmp/source
 
 RUN chmod 0755 /tmp/source && \
     cd /tmp && \

@@ -3,7 +3,7 @@
   "manifest_version": "2.0",
   "name": "Zen Browser",
   "description": "Fast and private web browser.",
-  "version": "1.21.13b",
+  "version": "1.21.15b",
   "image": "ghcr.io/containerpak/zen:main",
   "binaries": ["/usr/bin/zen"],
   "desktop_entries": ["/usr/share/applications/app.zen_browser.zen.desktop"],
