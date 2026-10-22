@@ -4,7 +4,7 @@
   "name": "Zen Browser",
   "description": "Fast and private web browser.",
   "version": "1.22b",
-  "image": "ghcr.io/containerpak/zen@sha256:7278bf1831506924c40ec9b246f78a6d9ab7a0bfaf6e59f103aa9b89b9936bf3",
+  "image": "ghcr.io/containerpak/zen@sha256:d5d653865e53360894ade22a0a67c7bdcd396546d32c876bd4ee7e2054855712",
   "binaries": [
     "/usr/bin/zen"
   ],
